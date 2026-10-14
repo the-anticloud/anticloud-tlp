@@ -1,0 +1,12 @@
+{
+  "project": "TLP",
+  "slug_source": "GitHub search API exact-name top match (candidates quoted)",
+  "picked_slug": "linrunner/TLP",
+  "search_url": "https://api.github.com/search/repositories?q=linrunner%20tlp&per_page=5",
+  "search_status": 200,
+  "candidates": [],
+  "commit_url": "https://api.github.com/repos/linrunner/TLP/commits/main",
+  "commit_status": 200,
+  "default_branch": "main",
+  "commit_response_excerpt": "{\"sha\":\"746c33a8952bc9032ea7ec9412c12b9fdae4e7a4\",\"node_id\":\"C_kwDOABrj_NoAKDc0NmMzM2E4OTUyYmM5MDMyZWE3ZWM5NDEyYzEyYjlmZGFlNGU3YTQ\",\"commit\":{\"author\":{\"name\":\"Thomas Koch\",\"email\":\"linrunner@gmx.net\",\"date\":\"2026-09-29T18:23:34Z\"},\"committer\":{\"name\":\"Thomas Koch\",\"email\":\"linrunner@gmx.net\",\"date\":\"2026-09-30T16:09:04Z\"},\"message\":\"Makefile: explain targets\",\"tree\":{\"sha\":\"7c44c769ca02a563151470bbacd4e2e62edf86e3\",\"url\":\"https://api.github.com/repos/linrunner/TLP/git/trees/7c44c769ca02a563151470bbacd4e2e62edf86e3\"},\"url\":\"https://api.github.com/repos/linrunner/TLP/git/commits/746c33a8952bc90"
+}

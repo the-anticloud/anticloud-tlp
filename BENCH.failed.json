@@ -1,0 +1,10 @@
+{
+  "project": "TLP",
+  "category": "LAPTOPS",
+  "path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\LAPTOPS\\TLP",
+  "status": "failed",
+  "reason": "no 40-hex git HEAD SHA (head='REMOVED_CONTAMINATED_SHA_PENDING_API_RESOLVE'; sanitized clone or .git absent)",
+  "files_count": 152,
+  "lines_of_code": 6087,
+  "sha": "REMOVED_CONTAMINATED_SHA_PENDING_API_RESOLVE"
+}

@@ -540,10 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "91d7bca65721928af30c6a2bb1a1f517f7862964",
-   "url": "https://github.com/tilltue/TLPhotoPicker",
-   "branch": "master",
-   "sha_verified_from": "GitHub API commits/master"
+   "url": "https://github.com/linrunner/TLP",
+   "head": "e5dce348c30d8a34be9b3fe1138ffd9f261ef933",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/tilltue/TLPhotoPicker"
   }
  }
 }
